@@ -1,9 +1,9 @@
 ---
-Nome completo:
-RA:
-Curso:
-Semestre:
-Bairro:
-Se trabalha:
-Objetivo:
+Nome completo: Julia Souza Alexandrino
+RA: 826168320
+Curso: Engenharia de Software
+Semestre: 3° semestre 
+Bairro: Colônia (Zona Leste)
+Se trabalha: Trabalho com moderação de conteúdos sensíveis em plataforma de jogo online
+Objetivo: Atuar como Engenheira de Software
 ---
